@@ -65,4 +65,4 @@ function uploadDb() {
     };
 }
 // listen for app coming back online
-window.addEventListener("online", checkDatabase);
+window.addEventListener("online", uploadDb);
