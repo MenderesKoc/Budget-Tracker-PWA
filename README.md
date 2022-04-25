@@ -18,6 +18,7 @@ Here is the Deployed app : [![Deploy](https://www.herokucdn.com/deploy/button.sv
 
 ![ScreenShot](/public/images/Screenshot.png)
 ![ScreenShot](/public/images/Screenshot2.png)
+![ScreenShot](/public/images/Screenshot3.png)
 
 ## Installation
 
