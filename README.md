@@ -14,6 +14,11 @@ Giving users a fast and easy way to track their money,but allowing them to acces
 
 Here is the Deployed app : [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://budget-tracker-pwa3.herokuapp.com/)
 
+## Images
+
+![ScreenShot](/public/images/Screenshot.png)
+![ScreenShot](/public/images/Screenshot2.png)
+
 ## Installation
 
 - Clone the repo
